@@ -1,4 +1,4 @@
-# etl-and-data-pipelines-shell-airflow-kafka
+# etl-and-data-pipelines-airflow
 ETL and Data Pipelines using Airflow 
 
 ### Project Overview:
