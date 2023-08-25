@@ -6,6 +6,6 @@ Project  aims to de-congest the national highways by analyzing the road traffic 
 
 #### Procedure
 1. Collect data available in different formats and, consolidate it into a single file.  
-2. Create a data pipe line that collects the streaming data and loads it into a database. 
+2. Create a datapipe line that collects the streaming data and loads it into a database. 
 
 
