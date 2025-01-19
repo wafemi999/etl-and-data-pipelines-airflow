@@ -1,5 +1,5 @@
 # etl-and-data-pipelines-airflow
-ETL and Data Pipelines using Airflow.
+ETL and Data Pipelines using Airflow..
 
 ### Project Overview:
 Project  aims to de-congest the national highways by analyzing the road traffic data from different toll plazas. Each highway is operated by a different toll operator with different IT setup that use different file formats. As a vehicle passes a toll plaza, the vehicle's data like vehicle_id,vehicle_type,toll_plaza_id and timestamp are streamed to Kafka. 
